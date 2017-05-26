@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mvdwerve/mathjax-server#readme",
   "dependencies": {
-    "http": "0.0.0",
+    "express": "^4.15.3",
     "mathjax-node-svg2png": "^1.1.0"
   }
 }
